@@ -6,11 +6,11 @@ export const GlobalStyled = createGlobalStyle`
     --red: #e52e4d;
     --blue: #5429CC;
 
-    --blue-light: #6933ff
+    --blue-light: #6933ff;
 
-    --text-title: #363f5f
-    --text-body: #969cb3
-    --shape: #ffffff
+    --text-title: #363f5f;
+    --text-body: #969cb3;
+    --shape: #ffffff;
   }
 
   * {
